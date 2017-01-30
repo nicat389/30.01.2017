@@ -1,0 +1,47 @@
+﻿1)  Bu proyekt musiqi şəbəkəsidir. Burada istifadəçilər online və offline şəkildə musiqiyə qulaq asa bilərlər
+
+2) Keyfiyyətli musiqinin yerləşdirilməsi
+
+3) Kifayət qədər istifadəçi və keyfiyyətli musiqinin yerləşdirilməsi
+
+4) Musiqi dinləyiciləri
+
+5) Proqramdan istifadə edən istifadəçi
+
+6)--------------------------------------
+
+7) Hər hansı musiqi şəbəkələrindən birindən 
+8) Musiqi şəbəkələri haqqında  kifayət qədər axtarış lazımdır
+
+9) Fikrimcə yox
+
+10) Mənim əsas layihəmlə demək olar ki, heç bir əlaqəsi yoxdur.
+
+11) Xeyr
+
+Audience
+1) Bu layihə insanların istədikləri vaxt online musiqilərə bu proqram vasitəsilə rahatlıqla qulaq asdıqları 
+kimi mahnını offline şəkildədə həmin proqramla qulaq asmaq imkanı verəcək.
+2) Əsasən cavan insanlar tərəfindən daha çox istifadə oluna bilər. Amma əlbəttə, bu o demək 
+deyil ki, başqaları istifadə edə bilməz. Bu applicationda hər bir musiqi dinləyicisi üçün hər cür mahnı ola bilər
+3) Bu Web-Application formasında olacaq. Onlar applicationda istədikləri mahnının adını yazacaqlar və ona online və lazım
+gəldikdə offline şəkildə qulaq asacaqlar
+4) Çünki insanlar, burada rahatlıqla mahnılara qulaq asa biləcək
+5) Layihənin sadə dizaynı, rahat və sürətli şəkildə işləməsi istifadəçinin proqramdan uzun müddət istifadə etməsinə kömək ola 
+bilər.
+
+
+Content
+1) Bu layihədə əsasən mahnılar ön planda olacaq. Məlumatlar az olacaq. Məlumatlar olsa belə, maximum mahnı haqqında ola bilər,
+onların buraxılma ili, oxuyan müğənni və s. Əsas lazım olacaq şey musiqi şəbəkələri ilə düzgün şəkildə bağlantı qurmaq və 
+proqramın sürətini maximum şəkildə sürətli etməkdir.
+2) Bu layihənin dizaynı elə də mürəkkəb olmayacaq. Sadə templatedən və mümkün qədər sürətli musiqi axtarışından ibarət olacaq.
+Daxil edilməsi lazım olan şeylər sadəcə musiqini lazım olan, istifadəçilərin zövqünə uyğun kateqoriyalara bölməkdir.
+3) Bu layihə Vkontakte sosial şəbəkəsində mövcuddur. Düşünürəm ki, elə də dəyişikliyə ehtiyac yoxdur 
+
+Communication
+1) Layihə insanların hər cür musiqini duyumuna cavab verməlidir. İnsanların musiqi zövqünə görə onlara musiqini 
+təqdim etməlidir.
+2) İnsanların hər cür şəraitdə yolda metroda əziyyət çəkmədən, digər saytlardan mahnı axtararaq yükləmədən rahatlıqla 
+offline şəkildə mahnıları dinləyə bilməsə əsas məqsəddir. İnsanlar istədikləri mahnıları burda tapa biləcəklər. Lazım olduqda
+bura yeni mahnılar yükləyə biləcəklər.
